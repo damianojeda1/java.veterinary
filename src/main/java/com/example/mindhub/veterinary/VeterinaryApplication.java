@@ -65,13 +65,6 @@ public class VeterinaryApplication {
 
 			treatmentRepository.save(treatment1);
 
-			//Prueba cambio
-
-			/*
-			Codigo cambiado!!!
-			*/
-
-
 		};
 	}
 
