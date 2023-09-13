@@ -65,7 +65,7 @@ public class VeterinaryApplication {
 
 			treatmentRepository.save(treatment1);
 
-			//Pruba cambio
+			//Prueba cambio
 
 
 		};
